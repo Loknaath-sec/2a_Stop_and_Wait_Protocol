@@ -1,4 +1,6 @@
 # Exp No-2a_Stop_and_Wait_Protocol
+### Name: LOKNAATH P
+### Register Number: 212223240080
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
